@@ -6,10 +6,16 @@ body{
 }
 
 .top-container{
-	background-color: #E4F9F5;
+	background-color: #EAF6F6;
 }
 .middle-container{
   margin: 100px 0;
+}
+
+.soft{
+  color: #557B83;
+  width: 350px;
+  border-radius: 30px;
 }
 
 h1{
@@ -57,18 +63,6 @@ p{
 	text-align: left;
 	width: 50%;
 	margin: 100px auto 100px auto;
-}
-
-.top-cloud{
-	position: absolute;
-	right: 300px;
-	top: 85px;
-}
-
-.bottom-cloud{
-	position: absolute;
-	left: 300px;
-	bottom: 300px;
 }
 
 a{
@@ -125,7 +119,7 @@ a:hover{
 	width: 25%;
 	float: right;
 	margin-left: 30px;
-  height: 200px;
+  height: 225px;
   width: 225px;
 }
 
